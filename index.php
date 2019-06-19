@@ -35,6 +35,7 @@
     #body1{
 		margin-top:450px;
 		margin-left:5px;
+		font-size:20px;
 	}
 	i{
 		color:green
@@ -72,11 +73,11 @@
    </div>
 
   <div id="body1">
-  <h4 ><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</h4>
-  <br>
-  <h4 ><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</h4>
-  <br>
-  <h4 ><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</h4>
+  <p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
+
+  <p><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</p>
+
+  <p><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
   </div>
   
   <br>
