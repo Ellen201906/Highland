@@ -22,7 +22,7 @@
 
 <style>
  #header1{
- margin-left:10px;
+ margin-left:5px;
  font-size:20px;
  }
  nav{
@@ -52,8 +52,8 @@
 	</div>
  
   <nav class="navbar navbar-expand-lg navbar-light bg-success" id="navbar">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
+    <button class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon">catalogue</span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">

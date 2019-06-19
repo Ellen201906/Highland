@@ -34,7 +34,7 @@
 		   padding-right:10px}
     #body1{
 		margin-top:450px;
-		margin-left:20px;
+		margin-left:5px;
 	}
 	i{
 		color:green
@@ -47,10 +47,7 @@
     <!-- Head includes login and site nav -->
     <?php include 'header.php';?>
 
-  
-  
-
-
+ 
   <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:380px;height:400px;float:right">
   <div id="googlemaps-display" style="height:100%; width:100%;max-width:100%;">
@@ -68,20 +65,22 @@
     <img src="store.jpg" class="d-block imgs" alt="UPS" >
  
 
-    <img src="ups.png" class="d-block imgs" alt="UPS" >
+    <img src="ups.jpg" class="d-block imgs" alt="UPS" >
 
-    <img src="westunion.png" class="d-block imgs" alt="UPS" >
+    <img src="westunion.jpg" class="d-block imgs" alt="westunion" >
  
    </div>
 
   <div id="body1">
   <h4 ><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</h4>
+  <br>
   <h4 ><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</h4>
+  <br>
   <h4 ><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</h4>
   </div>
   
-  <br><br>
-  <div class="container" style="margin-left:10px">
+  <br>
+  <div class="container" style="margin-left:5px">
   <h4>Contact Us</h4>
 <form method="post" action="formprocessor.php">
     <div class="form-row">
