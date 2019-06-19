@@ -53,7 +53,10 @@
  
   <nav class="navbar navbar-expand-lg navbar-light bg-success" id="navbar">
     <button class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon">catalogue</span>
+      <span class="navbar-toggler-icon"></span>
+	   <span class="icon-bar"></span>
+	   <span class="icon-bar"></span>
+	   <span> catalogue</span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
