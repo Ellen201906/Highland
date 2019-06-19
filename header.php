@@ -18,6 +18,7 @@
   <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
   <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
 
+  
 
 <style>
  #header1{
@@ -32,6 +33,20 @@
 <div> 
     <div id="header1">
 	 <script>
+	 $(window).scroll(function() {
+            //小屏幕下的导航条折叠
+            if($(window).width() < 768) {
+                //点击导航链接之后，把导航选项折叠起来
+                $("#navbar a").click(function() {
+                    $("#navbar").collapse('hide');
+                });
+                //滚动屏幕时，把导航选项折叠起来
+                $(window).scroll(function() {
+                    $("#navbar").collapse('hide');
+                });
+            }
+        });
+
             var d = new Date();
             var curTime=d.getHours();
             if (curTime<12)
