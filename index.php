@@ -24,13 +24,13 @@
 	
 		margin-top:-20px;
 	}
-	.imgs{width:350px;
+	.imgs{width:400px;
 	       height:300px;
 		   float:left;
 		   padding-right:10px;
 		   }
     #body1{
-		margin-top:450px;
+		margin-top:350px;
 		margin-left:5px;
 		font-size:20px;
 	}
@@ -58,7 +58,7 @@
 	 <img src="webwxgetmsgimg.jpg" class="d-block imgs" alt="store" >
 
    </div>
-
+   <br>
   <div id="body1">
   <p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
 
