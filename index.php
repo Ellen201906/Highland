@@ -19,26 +19,23 @@
     
 
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <style>
-      
-		#carouselText {
-            position: absolute;
-            top: 0;
-            padding-left: 200px;
-            z-index: 3;
-            color: white;
-        }
-	.imgs{width:380px;
-	       height:400px;
+    <style>  
+	#picture{
+		margin-left:310px;
+		margin-top:-20px;
+	}
+	.imgs{width:450px;
+	       height:450px;
 		   float:left;
-		   padding-right:10px}
+		   padding-right:10px;
+		   }
     #body1{
-		margin-top:450px;
+		margin-top:530px;
 		margin-left:5px;
 		font-size:20px;
 	}
 	i{
-		color:green
+		color:	black
 	}
 
     </style>
@@ -50,16 +47,14 @@
 
  
   
-  <div >
-    <img src="store.jpg" class="d-block imgs" alt="UPS"  >
+  <div id="picture">
+    <img src="store1.jpg" class="d-block imgs" alt="store"  >
 
-    <img src="store.jpg" class="d-block imgs" alt="UPS" >
+    <img src="store2.jpg" class="d-block imgs" alt="store" >
  
 
-    <img src="ups.jpg" class="d-block imgs" alt="UPS" >
+    <img src="store3.jpg" class="d-block imgs" alt="store" >
 
-    <img src="westunion.jpg" class="d-block imgs" alt="westunion" >
- 
    </div>
 
   <div id="body1">
@@ -68,11 +63,11 @@
   <p><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</p>
 
 
-   <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer">Email to me</a>
-   <br><br>
-  <p><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
+   <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style="margin-left:5px;color:black">Email to me</a>
+   
+  <p style="margin-top:16px"><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
   
-  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="margin-left:-15px;color:black"><i class="fas fa-globe"></i>Click to see map</a>   
+  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="margin-left:-10px;color:black"><i class="fas fa-globe"></i>Click to see map</a>   
   <div class="dropdown-menu">
   <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
