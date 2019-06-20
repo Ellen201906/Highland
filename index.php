@@ -71,10 +71,10 @@
    <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer">Email to me</a>
    <br><br>
   <p><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
-   <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="margin-left:-15px;color:black"><i class="fas fa-globe"></i>Click to see map</a>
-      
+  
+  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="margin-left:-15px;color:black"><i class="fas fa-globe"></i>Click to see map</a>   
   <div class="dropdown-menu">
-          		    <!-- bing map-->
+  <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
   <div id="googlemaps-display" style="height:100%; width:100%;max-width:100%;">
   <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=8204+jasper+ave+edmonton+canada&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
