@@ -24,8 +24,8 @@
 	
 		margin-top:-20px;
 	}
-	.imgs{width:450px;
-	       height:400px;
+	.imgs{width:300px;
+	       height:300px;
 		   float:left;
 		   padding-right:10px;
 		   }
