@@ -39,7 +39,7 @@
 	}
 
     </style>
-    <title>Highland mini market</title>
+    <title>Highland MiniMart</title>
 	</head>
 <body>
     <!-- Head includes login and site nav -->
@@ -55,10 +55,10 @@
  
 
     <img src="store3.jpg" class="d-block imgs" alt="store" >
-	 <img src="webwxgetmsgimg.jpg" class="d-block imgs" alt="store" >
+
 
    </div>
-   <br><br><br><br><br>
+   <br><br><br><br>
   <div id="body1">
   <p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
 

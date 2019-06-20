@@ -65,14 +65,14 @@
             var curTime=d.getHours();
             if (curTime<12)
             {
-            document.write("<p id='mornGreet' >Good Morning, Welcome to Highland Minimart!</p>");
+            document.write("<p id='mornGreet' >Good Morning, Welcome to Highland MiniMart!</p>");
             }
 			else if (curTime>17)
             {
-            document.write("<p id='evenGreet'>Good Evening, Welcome to Highland Minimart!</p>");
+            document.write("<p id='evenGreet'>Good Evening, Welcome to Highland MiniMart!</p>");
             }
             else {
-	        document.write("<p id='afteGreet'>Good Afternoon, Welcome to Highland Minimart!</p>");
+	        document.write("<p id='afteGreet'>Good Afternoon, Welcome to Highland MiniMart!</p>");
             }
     </script>
 	</div>
@@ -80,9 +80,9 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-muted" id="navbar">
     <button  class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
-	   <span > catalogue</span>
+	   <span style="font-size:12px"> catalogue</span>
     </button>
-    <div   class="collapse navbar-collapse" id="navbarNavDropdown">
+    <div   class="collapse navbar-collapse in" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="#">UPS</a>
