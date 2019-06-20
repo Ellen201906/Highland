@@ -24,7 +24,7 @@
 	
 		margin-top:-20px;
 	}
-	.imgs{width:300px;
+	.imgs{width:350px;
 	       height:300px;
 		   float:left;
 		   padding-right:10px;
