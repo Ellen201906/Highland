@@ -73,7 +73,7 @@
       
   <div class="dropdown-menu">
           		    <!-- bing map-->
-  <div style="text-decoration:none; overflow:hidden;max-width:100%;width:880px;height:400px;margin-left:200px">
+  <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
   <div id="googlemaps-display" style="height:100%; width:100%;max-width:100%;">
   <iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=8204+jasper+ave+edmonton+canada&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8">
   </iframe>
