@@ -78,11 +78,11 @@
 	</div>
  <br>
   <nav class="navbar navbar-expand-lg navbar-light bg-muted" id="navbar">
-    <button  class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <button  class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#example-navbar-collapse" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
 	   <span style="font-size:12px"> catalogue</span>
     </button>
-    <div   class="collapse navbar-collapse in" id="navbarNavDropdown">
+    <div   class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="#">UPS</a>
