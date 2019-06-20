@@ -21,16 +21,16 @@
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <style>  
 	#picture{
-		margin-left:310px;
+	
 		margin-top:-20px;
 	}
 	.imgs{width:450px;
-	       height:450px;
+	       height:400px;
 		   float:left;
 		   padding-right:10px;
 		   }
     #body1{
-		margin-top:530px;
+		margin-top:450px;
 		margin-left:5px;
 		font-size:20px;
 	}
@@ -48,12 +48,14 @@
  
   
   <div id="picture">
+    
     <img src="store1.jpg" class="d-block imgs" alt="store"  >
 
     <img src="store2.jpg" class="d-block imgs" alt="store" >
  
 
     <img src="store3.jpg" class="d-block imgs" alt="store" >
+	 <img src="webwxgetmsgimg.jpg" class="d-block imgs" alt="store" >
 
    </div>
 
