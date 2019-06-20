@@ -53,11 +53,11 @@
 	</div>
  
   <nav class="navbar navbar-expand-lg navbar-light bg-success" id="navbar">
-    <button class="navbar-toggler" type="button"  data-toggle="dropdown" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
 	   <span> catalogue</span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <div class="collapse navbar-collapse collapse in" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
           <a class="nav-link" href="#">grocery</a>
@@ -68,7 +68,7 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown">tobacco</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="https://www.google.com/"></a>
+            <a class="dropdown-item" href="#">Link 1</a>
             <a class="dropdown-item" href="#">Link 2</a>
             <a class="dropdown-item" href="#">Link 3</a>
           </div>
