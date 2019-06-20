@@ -31,8 +31,8 @@
  }
 
   #mornGreet{
-	 line-height:60px;
-         height:60px;
+	 line-height:50px;
+         height:50px;
          font-size:25px;
          color:white ;
          text-align:center;      
@@ -77,7 +77,7 @@
             }
     </script>
 	</div>
- 
+ <br>
   <nav class="navbar navbar-expand-lg navbar-light bg-muted" id="navbar">
     <button href="#collapseOne" class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
