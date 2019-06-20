@@ -67,8 +67,10 @@
 
   <p><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</p>
 
-  <p><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
 
+   <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer">Email to me</a>
+   <br><br>
+  <p><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
    <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="margin-left:-15px;color:black"><i class="fas fa-globe"></i>Click to see map</a>
       
   <div class="dropdown-menu">
@@ -85,36 +87,7 @@
            
        </div>
   
-  <br>
-  <div class="container" style="margin-left:5px">
-  <h4>Contact Us</h4>
-<form method="post" action="formprocessor.php">
-    <div class="form-row">
-        <div class="col-md-4 mb-3">
-            <label for="validationDefault01">First name ((required))</label>
-            <input type="text" class="form-control"  placeholder="First name" name="first_name" required >
-        </div>
-        <div class="col-md-4 mb-3">
-            <label for="validationDefault02">Last name (optional)</label>
-            <input type="text" class="form-control"  placeholder="Last name" name="last_name" >
-        </div>
-    </div>
-    <div class="form-row">
-        <div class="col-md-8 mb-3">
-            <label for="validationDefaultEmail">Email (required)</label>
-            <div class="input-group">
-            <input type="email" class="form-control" id="validationDefaultEmail" placeholder="Email" name="email" required>
-            </div>
-        </div>
-    </div>
-    <div class="form-row">
-    <label for="exampleFormControlTextarea1">Message (required)</label>
-    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Your message here" name="message" required></textarea>
-    </div>
-    <br>
-    <button type="submit" class="btn btn-success">Submit</button>
-</form>
-
+  
 
     <!-- footer -->
     <?php include 'footer.php';?>
