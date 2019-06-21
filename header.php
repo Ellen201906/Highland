@@ -72,7 +72,7 @@
     </script>
 	</div>
  <br>
-  <nav class="navbar navbar-expand-lg navbar-light bg-muted" id="navbar">
+  <nav class="navbar navbar-expand-lg navbar-light bg-muted" id="navbar" style="margin-top:20px">
     <button  class="navbar-toggler" type="button"  data-toggle="collapse" data-target="#example-navbar-collapse" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon "></span>
 	   <span style="font-size:16px"> catalogue</span>
