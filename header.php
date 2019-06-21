@@ -21,31 +21,25 @@
 </head>
 
 <style>
- #header1{
- margin-left:5px;
- font-size:20px;
- text-align:center;
- }
- nav{
- font-size:20px;
- }
+ 
 
   #mornGreet{
-	
+	  line-height:50px;
+         height:50px;
          font-size:25px;
          color:white ;
          text-align:center;      
           }
        #evenGreet{
-	 line-height:60px;
-         height:60px;
+	 line-height:50px;
+         height:50px;
          font-size:25px;
          color:white ;
          text-align:center;
           }
         #afteGreet{
-         line-height:60px;
-         height:60px;
+         line-height:50px;
+         height:50px;
          font-size:25px;
          color:white ;
          text-align:center;       
@@ -55,7 +49,8 @@
  	 margin-left:30px
  }
 </style>
-</head>    
+</head> 
+<body>
 <div> 
     <div id="header1">
 	 <script>
@@ -141,3 +136,4 @@
     
   </nav>
 </div>
+</body>
