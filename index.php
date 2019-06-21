@@ -42,7 +42,7 @@
 
  
   
-  <div id="picture"  style="margin-top:40px">
+  <div id="picture"  style="margin-top:30px">
     
     <img src="store1.jpg" class="d-block imgs" alt="store"  >
 

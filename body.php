@@ -26,6 +26,9 @@
   </div>
            
  </div>
+
+ <p style="margin-top:16px"><i class="fas fa-building"></i>store pictures(below)</p>
+
  </div>
 	
 </body>
