@@ -12,7 +12,7 @@
    
   <p style="margin-top:16px"><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
   
-  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style=" text-decoration: underline;color:black;margin-left:-15px"><i class="fas fa-globe"></i>Click to see map</a>   
+  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style=" text-decoration: underline;color:black;margin-left:-10px"><i class="fas fa-globe"></i>Click to see map</a>   
   <div class="dropdown-menu">
   <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
