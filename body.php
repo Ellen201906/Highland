@@ -2,7 +2,7 @@
  <html>
 <body>
   
-  <div id="body1" style="font-size:20px;margin-top:-15px:margin-left:15px;color:black">
+  <div id="body1" style="font-size:20px;margin-top:-15px:margin-left:30px;color:black">
   <p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
 
   <p><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</p>
