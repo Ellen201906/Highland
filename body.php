@@ -4,13 +4,10 @@
   
   <div class="container" id="body1" style="color:white">
 
- <a href="#"> <i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</a>
-  <i class="fas fa-phone-volume"></i><p> Phone number: 780-328-3069</p>
-
- <a href="#"> <i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</a>
- <i class="fas fa-compass"></i> <p style="margin-top:16px"> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
-  
-  <p><i class="fas fa-envelope-square"><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;margin-left:-5px">Email to me</a></p>
+  <p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
+  <p><i class="fas fa-phone-volume"></i>Phone number: 780-328-3069</p>
+  <p ><i class="fas fa-compass"></i>  Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
+  <p><i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;margin-left:-5px">Email to me</a></p>
   <p><i class="fas fa-globe"></i><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;color:white;margin-left:-5px">Click to see map</a><p>   
   <div class="dropdown-menu">
   <!-- bing map-->
