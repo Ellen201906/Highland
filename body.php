@@ -3,16 +3,16 @@
 <body>
   
   <div class="container" id="body1" style="color:white">
+<p><i class="far fa-clock"></i>Business hours:   Monday to Sunday  |   9:00am to 9:00pm</p>
 
-  <p>Business hours:   Monday to Sunday  |   9:00am to 9:00pm<i class="far fa-clock"></i></p>
-  <p>Phone number: 780-328-3069<i class="fas fa-phone-volume"></i></p>
-  <p>Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2 <i class="fas fa-compass"></i></p>
-   
-  <p><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;margin-left:-6px">Email to me</a>  </p>
+  <p><i class="fas fa-phone-volume"></i> Phone number: 780-328-3069</p>
+
+  <p style="margin-top:16px"><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
   
-  <p><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;color:white;margin-left:-6px">Click to see map</a> </p>   
-	
+  <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;;color:white;margin-left:5px">Email to me</a>
+  <a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style=" text-decoration: underline;color:white;margin-left:-10px;margin-top:10px"><i class="fas fa-globe"></i>Click to see map</a>   
   <div class="dropdown-menu">
+ 
   <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
   <div id="googlemaps-display" style="height:100%; width:100%;max-width:100%;">
