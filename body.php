@@ -9,8 +9,8 @@
 
   <p style="margin-top:16px"><i class="fas fa-compass"></i> Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2</p>
   
-  <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;">Email to me</a>
-  <i class="fas fa-globe"></i><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;">Click to see map</a>   
+  <i class="fas fa-envelope-square"></i><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;margin-left:-10px">Email to me</a>
+  <i class="fas fa-globe"></i><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;color:white;margin-left:-10px">Click to see map</a>   
   <div class="dropdown-menu">
   <!-- bing map-->
   <div style="text-decoration:none; overflow:hidden;max-width:100%;width:480px;height:400px;">
