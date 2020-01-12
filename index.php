@@ -32,10 +32,9 @@
 
     <link rel="stylesheet" type="text/css" href="stylesheet.css">
     <style> 
-	.body{
-		margin-left:10px;}
+	
 	    
-	.imgs{width:350px;
+	.imgs{width:400px;
 	       height:300px;
 		   float:left;
 		   padding-right:10px;
