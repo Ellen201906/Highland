@@ -34,7 +34,7 @@
     <style> 
 	
 	    
-	.imgs{width:400px;
+	.imgs{width:350px;
 	       height:300px;
 		   float:left;
 		   padding-right:10px;
