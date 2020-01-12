@@ -8,9 +8,9 @@
   <p>Phone number: 780-328-3069<i class="fas fa-phone-volume"></i></p>
   <p>Address: 8204 Jasper Ave NW, Edmonton AB T5H 3S2 <i class="fas fa-compass"></i></p>
    
-  <p><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;">Email to me</a>  </p>
+  <p><a href="Mailto:liuye5@hotmail.com?&Subject=From Highland's customer" style=" text-decoration: underline;color:white;margin-left:-6px">Email to me</a>  </p>
   
-  <p><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;color:white;margin-left:-5px">Click to see map</a> <p>   
+  <p><a class="nav-link " href="#" id="navbardrop" data-toggle="dropdown" data-hover="dropdown" title="click to open or close map" style="text-decoration: underline;color:white;margin-left:-6px">Click to see map</a> </p>   
 	
   <div class="dropdown-menu">
   <!-- bing map-->
@@ -26,7 +26,7 @@
            
  </div>
 
- <p style="margin-top:16px"><i class="fas fa-building"></i>store photos(below)</p>
+ <p style="margin-top:16px">store photos(below)<i class="fas fa-building"></i></p>
 
  </div>
 	
